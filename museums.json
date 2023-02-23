@@ -1,0 +1,249 @@
+[
+    {
+        "name": "British Museum",
+        "image": {
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/British_Museum_%28aerial%29.jpg/1024px-British_Museum_%28aerial%29.jpg",
+            "license": "CC BY 2.0",
+            "attribution": {
+                "name": "Luke Massey & the Greater London National Park City Initiative",
+                "link": "https://www.london.gov.uk/motions/greater-london-national-park-city-initiative"
+            },
+            "description": "Aerial shot of the British Museum"
+        },
+        "description": {
+            "source": "https://en.wikipedia.org/wiki/British_Museum",
+            "general": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+            "dispute": "The Elgin Marbles, Benin Bronzes, Ethiopian Tabots and the Rosetta Stone are among the most disputed objects in its collections, and organisations have been formed demanding the return of these artefacts to their native countries."
+        },
+        "coordinates": {
+            "latitude": 51.519444,
+            "longitude": -0.126944
+        },
+        "artifacts": [
+            {
+                "name": "Benin Bronzes",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Benin_brass_plaque_03_%28cropped%29.jpg/800px-Benin_brass_plaque_03_%28cropped%29.jpg",
+                    "license": "CC BY-SA 3.0",
+                    "attribution": {
+                        "name": "Michel wal"
+                    },
+                    "description": "Benin Bronzes, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Benin_Bronzes",
+                    "general": "The Benin Bronzes are a group of several thousand metal plaques and sculptures that decorated the royal palace of the Kingdom of Benin. Collectively, the objects form the best examples of Benin art and were created from the thirteenth century by artists of the Edo people.",
+                    "dispute": "In October 2021, the Nigerian Goverment demanded the return of the Benin Bronzes. Many of the Benin Bronzes in other countries, such as Germany or the United Staates, have already been returned to Nigeria."
+                },
+                "coordinates": {
+                    "latitude": 6.333333,
+                    "longitude": 5.616667
+                }
+            },
+            {
+                "name": "Diamond Sutra",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/1024px-Jingangjing.jpg",
+                    "license": "Public Domain",
+                    "attribution": {
+                        "name": "The colophon"
+                    },
+                    "description": "Front line of the Chinese Diamond Sūtra"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+                    "general": "The Diamond Sutra is one of the most influential sutras in East Asia, and it is particularly prominent within the Chan tradition.",
+                    "dispute": "The Diamond Sutra, among other artifacts from the Mogao Caves, have been claimed by the People's Republic of China."
+                },
+                "coordinates": {
+                    "latitude": 40.037222,
+                    "longitude": 94.804167
+                }
+            },
+            {
+                "name": "Elgin Marbles",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Elgin_Marbles_British_Museum.jpg/1024px-Elgin_Marbles_British_Museum.jpg",
+                    "license": "CC BY-SA 2.0",
+                    "attribution": {
+                        "name": "Andrew Dunn",
+                        "link": "http://www.andrewdunnphoto.com/html/ThumbArchitecture.html"
+                    },
+                    "description": "Elgin Marbles, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Elgin_Marbles",
+                    "general": "The Elgin Marbles are a collection of Ancient Greek sculptures from the Parthenon and other structures from the Acropolis of Athens, removed from Ottoman Greece and now held in the British Museum.",
+                    "dispute": "In 1835, the government of the newly independent Greece asked the British Museum to return the Elgin Marbles, and in 1890 the Greek minister in London asked for the return of the architectural fragments. In 1983 the Greek government formally asked the UK government to return the marbles to Greece and, in 1984, listed the dispute with UNESCO."
+                },
+                "coordinates": {
+                    "latitude": 37.971667,
+                    "longitude": 23.726111
+                }
+            },
+            {
+                "name": "Gweagal shield",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bark_shield_2008_british_museum.jpg/320px-Bark_shield_2008_british_museum.jpg",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "geni"
+                    },
+                    "description": "Aboriginal shield in the British Museum, previously thought to be the Gweagal shield"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Gweagal_shield",
+                    "general": "The Gweagal shield is an Aboriginal Australian shield dropped by a Gweagal warrior opposing James Cook's landing party at Botany Bay on 29 April 1770. The shield was recovered by Joseph Banks and taken back to England, but it is unclear whether the shield still exists. An Aboriginal shield held by the British Museum, and once thought to be the Gweagal shield, is more likely to originate from an area further north.",
+                    "dispute": "Following the Encounters exhibition, Rodney Kelly, a Gweagal man from Bermagui, started a campaign for the return of the shield to Australia, along with some Aboriginal spears held in Cambridge. His campaign for its return has since involved three visits to Britain, one in 2016 and two in 2017."
+                },
+                "coordinates": {
+                    "latitude": -33.999722,
+                    "longitude": 151.233056
+                }
+            },
+            {
+                "name": "Hoa Hakananai'a",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG/800px-Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "James Miles"
+                    },
+                    "description": "Hoa Hakananai'a, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Hoa_Hakananai%27a",
+                    "general": "Hoa Hakananai'a is a moai, a statue from Easter Island. It was taken from Orongo, Easter Island (Rapa Nui) in 1868 by the crew of a British ship and is now in the British Museum in London.",
+                    "dispute": "The Rapa Nui people consider that the moai was taken without permission. In November 2018 Laura Alarcón Rapu, the Governor of Easter Island, asked the British Museum to return the statue."
+                },
+                "coordinates": {
+                    "latitude": -27.189444,
+                    "longitude": -109.4425
+                }
+            },
+            {
+                "name": "Moel Hebog shield",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg/800px-Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "Titus Gold"
+                    },
+                    "description": "Moel Hebog shield, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Moel_Hebog_shield",
+                    "general": "The Moel Hebog shield is a large copper-alloy Yetholm-type shield from Bronze Age Britain, found in Wales in 1784, and now in the British Museum in London. It dates from 1300–1000 BC.",
+                    "dispute": "There have been calls for the artefact to be returned to Wales."
+                },
+                "coordinates": {
+                    "latitude": 53.00014,
+                    "longitude": -4.1398
+                }
+            },
+            {
+                "name": "Mold gold cape",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Mold_cape.jpg/300px-The_Mold_cape.jpg",
+                    "license": "CC BY 2.0",
+                    "attribution": {
+                        "name": "Mark Ramsay"
+                    },
+                    "description": "Mold cape, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Mold_gold_cape",
+                    "general": "The Mold gold cape is a ceremonial cape of solid sheet-gold from Wales dating from about 1900–1600 BC in the British Bronze Age. It was found at Bryn yr Ellyllon burial mound near Mold, Flintshire in 1833.",
+                    "dispute": "In 2002 Welsh Assembly Member Allison Halford urged the British Museum to hand back the Mold Cape to a North Wales museum. These calls for the Mold gold cape to be returned were echoed in 2011 by by Celtic League, a culture organisation and in 2022 by academic and former librarian of the National Library of Wales, Andrew Green."
+                },
+                "coordinates": {
+                    "latitude": 53.167203,
+                    "longitude": -3.141903
+                }
+            },
+            {
+                "name": "Rhos Rydd Shield",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg/800px-Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "Titus Gold"
+                    },
+                    "description": "Rhos Rydd Shield, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Rhos_Rydd_Shield",
+                    "general": "The Rhos Rydd Shield is a large copper-alloy Yetholm-type shield from the Bronze Age, found in Rhos-Rydd or Rhyd y Gors, near Blaenplwyf, Wales.",
+                    "dispute": "There have been calls for the artefact to return to Wales."
+                },
+                "coordinates": {
+                    "latitude": 52.3601,
+                    "longitude": -4.09065
+                }
+            },
+            {
+                "name": "Rosetta Stone",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/800px-Rosetta_Stone.JPG",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "Hans Hillewaert"
+                    },
+                    "description": "Rosetta Stone, on display at the British Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+                    "general": "The Rosetta Stone is a stele with three versions of a decree issued on behalf of King Ptolemy V Epiphanes in Memphis, Egypt.",
+                    "dispute": "Calls for the Rosetta Stone to be returned from the British Museum were made in July 2003 by Zahi Hawass, then Secretary-General of Egypt's Supreme Council of Antiquities."
+                },
+                "coordinates": {
+                    "latitude": 29.844722,
+                    "longitude": 31.250833
+                }
+            }
+        ]
+    },
+    {
+        "name": "Neues Museum",
+        "image": {
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/640px-Neues_Museum_-_Joy_of_Museums.jpg",
+            "license": "CC BY-SA 4.0",
+            "attribution": {
+                "name": "Joyofmuseums",
+                "link": "https://joyofmuseums.com/"
+            },
+            "description": "Exterior of the Neues Museum in Berlin"
+        },
+        "description": {
+            "source": "https://en.wikipedia.org/wiki/Neues_Museum",
+            "general": "The Neues Museum (New Museum) is a museum on the Museum Island in the historic centre of Berlin. Built from 1843 to 1855 by order of King Frederick William IV of Prussia in Neoclassical and Renaissance Revival styles, it is considered as the major work of Friedrich August Stüler.",
+            "dispute": "The Neferti Bust is one of its most diputed artifacts. It has become a cultural symbol of Berlin as well as ancient Egypt and the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation."
+        },
+        "coordinates": {
+            "latitude": 52.520556,
+            "longitude": 13.397778
+        },
+        "artifacts": [
+            {
+                "name": "Nefertiti Bust",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/800px-Nofretete_Neues_Museum.jpg",
+                    "license": "CC BY-SA 3.0",
+                    "attribution": {
+                        "name": "Philip Pikart"
+                    },
+                    "description": "Nefertiti bust, on display at the Neues Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Nefertiti_Bust",
+                    "general": "The Nefertiti Bust is a painted stucco-coated limestone bust of Nefertiti, the Great Royal Wife of Egyptian pharaoh Akhenaten.",
+                    "dispute": "It has also been the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation, which began in 1924, once the bust was first displayed to the public. There have been many requests to return the bust to Egypt over the years, but these have been rejected by Germany."
+                },
+                "coordinates": {
+                    "latitude": 27.645278,
+                    "longitude": 30.896389
+                }
+            }
+        ]
+    }
+]

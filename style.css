@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#map {
+    z-index: 0;
+    height: 100vh;
+}
+
+.leaflet-bottom {
+    display: none;
+}
+
+.gitHubLink {
+    top: 85px;
+    left: 10px;
+    z-index: 1;
+    position: fixed;
+}
+
+.gitHubLink img {
+    width: 34px;
+    border-radius: 17px;
+    background-clip: padding-box;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+h2,
+p {
+    text-align: left;
+}
+
+figure {
+    all: unset;
+    text-align: center;
+}
+
+.image {
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+}
