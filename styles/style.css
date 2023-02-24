@@ -17,11 +17,12 @@ body {
     left: 10px;
     z-index: 1;
     position: fixed;
+    text-align: center;
 }
 
 .gitHubLink img {
     width: 34px;
-    border-radius: 17px;
+    border-radius: 34px;
     background-clip: padding-box;
     border: 2px solid rgba(0, 0, 0, 0.2);
 }
