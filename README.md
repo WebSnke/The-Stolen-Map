@@ -27,8 +27,8 @@ To add a museum or artifact, gather the following data:
   - Information about disputes (`dispute`)
 
 - Coordinates of item (`coordinates`)
-  - Latitude (`Latitude`)
-  - Longitude (`Longitude`)
+  - Latitude (`latitude`)
+  - Longitude (`longitude`)
 
 If you are not familiar with editing JSON files, just submit a [new issue](https://github.com/WebSnke/The-Stolen-Map/issues/new) requesting the change.
 
