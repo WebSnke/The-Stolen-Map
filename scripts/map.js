@@ -55,7 +55,7 @@ export function createMarkerAndPopup(item) {
         .bindPopup(
             `<h2>${item.name}</h2>
             <figure>
-                <img class="image" src="${item.image.link}" alt="${item.image.description}" style="border: 2px solid ${borderColor}">
+                <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
                 <figcaption>${item.image.description}</figcaption>
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
             </figure>
