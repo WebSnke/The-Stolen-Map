@@ -27,6 +27,12 @@ body {
     border: 2px solid rgba(0, 0, 0, 0.2);
 }
 
+.gitHubLink,
+.image {
+    color: black;
+    text-decoration: none;
+}
+
 h2,
 p {
     text-align: left;
