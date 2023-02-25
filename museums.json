@@ -245,5 +245,48 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Pushkin Museum",
+        "image": {
+            "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gmii.jpg",
+            "license": "CC BY-SA 3.0",
+            "attribution": {
+                "name": "Ghirlandajo",
+                "link": "https://commons.wikimedia.org/wiki/User:Ghirlandajo"
+            },
+            "description": "Pushkin Museum of Fine Arts in Moscow"
+        },
+        "description": {
+            "source": "https://en.wikipedia.org/wiki/Pushkin_Museum",
+            "general": "The Pushkin State Museum of Fine Arts is the largest museum of European art in Moscow.",
+            "dispute": "Many of the Priam's Treasure's disputed artifacts are currently in its collection. They were originally smuggled by Heinrich Schliemann from Hisarlik, Turkey. Many of these artifacts were aquired in 1881 by the Royal Museums of Berlin and taken by the Red Army during the Battle of Berlin. The artefacts were then flown to Moscow, where they currently are located."
+        },
+        "coordinates": {
+            "latitude": 55.747222,
+            "longitude": 37.605
+        },
+        "artifacts": [
+            {
+                "name": "Priam's Treasure",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Priam%27s_treasure.jpg",
+                    "license": "Public Domain",
+                    "attribution": {
+                        "name": "Unknown"
+                    },
+                    "description": "Part of Priam's treasure"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Priam's_Treasure",
+                    "general": "Priam's Treasure is a cache of gold and other artifacts discovered by classical archaeologists Frank Calvert and Heinrich Schliemann at Hissarlik, on the northwestern coast of modern Turkey. The majority of the artifacts are currently in the Pushkin Museum in Moscow.",
+                    "dispute": "Apparently, Schliemann smuggled Priam's Treasure out of Anatolia. The Ottoman government revoked Schliemann's permission to dig and sued him for its share of the gold. Later Schliemann traded some treasure to the government of the Ottoman Empire in exchange for permission to dig at Troy again."
+                },
+                "coordinates": {
+                    "latitude": 39.957,
+                    "longitude": 26.239
+                }
+            }
+        ]
     }
 ]
