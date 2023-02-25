@@ -204,6 +204,49 @@
         ]
     },
     {
+        "name": "Field Museum of Natural History",
+        "image": {
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Field_Museum_N.jpg/800px-Field_Museum_N.jpg",
+            "license": "CC BY-SA 4.0",
+            "attribution": {
+                "name": "Sea Cow",
+                "link": "https://commons.wikimedia.org/wiki/User:Sea_Cow"
+            },
+            "description": "Aerial of the Field Museum"
+        },
+        "description": {
+            "source": "https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History",
+            "general": "The Field Museum of Natural History (FMNH), also known as The Field Museum, is a natural history museum in Chicago, Illinois, and is one of the largest such museums in the world.",
+            "dispute": "The the skins of the Tsavo Man-Eaters were aquired by the Field Museum in 1924 for a sum of $5,000. The skins arrived at the museum in very poor condition. The lions were reconstructed and are now on permanent display along with their skulls."
+        },
+        "coordinates": {
+            "latitude": 41.866111,
+            "longitude": -87.616944
+        },
+        "artifacts": [
+            {
+                "name": "Tsavo Man-Eaters",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lionsoftsavo2008.jpg/800px-Lionsoftsavo2008.jpg",
+                    "license": "CC BY-SA 3.0",
+                    "attribution": {
+                        "name": "Jeffrey Jung"
+                    },
+                    "description": "Tsavo Man-Eaters on display in the Field Museum of Natural History"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Tsavo_Man-Eaters#Museum_display",
+                    "general": "The Tsavo Man-Eaters were a pair of man-eating male lions in the Tsavo region of Kenya, which were responsible for the deaths of many construction workers on the Kenya-Uganda Railway between March and December 1898. Today, the Tsavo Man-Eaters are some of the most widely studied man-eating pantherine cats given their behavior of hunting humans as a pair as well as dental injuries reported in one of the lions, a cause commonly attributed to big cats turning to humans as prey.",
+                    "dispute": "The government of Kenya demanded the return of the Tsavo Man-Eaters as 'first resistance' against colonial rule in 2021."
+                },
+                "coordinates": {
+                    "latitude": 1,
+                    "longitude": 38
+                }
+            }
+        ]
+    },
+    {
         "name": "Neues Museum",
         "image": {
             "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/640px-Neues_Museum_-_Joy_of_Museums.jpg",
