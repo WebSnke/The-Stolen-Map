@@ -268,6 +268,26 @@
         },
         "artifacts": [
             {
+                "name": "Eberswalde Hoard",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nachbildung_Goldschtz_ausgestellt_Foto_B._Klitzke.jpg/1024px-Nachbildung_Goldschtz_ausgestellt_Foto_B._Klitzke.jpg",
+                    "license": "CC BY-SA 3.0",
+                    "attribution": {
+                        "name": "Birgit Klitzke"
+                    },
+                    "description": "Eberswalde Hoard, on display at the Pushkin Museum"
+                },
+                "description": {
+                    "source": "https://en.wikipedia.org/wiki/Eberswalde_Hoard",
+                    "general": "The Eberswalde Hoard is a Bronze Age hoard of 81 gold objects with a total weight of 2.59 kg. The largest prehistoric assembly of gold objects ever found in Germany, it is considered to be one of the most important finds from the Central European Bronze Age.",
+                    "dispute": "After the end of the Second World War in 1945, the Eberswalde Hoard disappeared from the Berlin museum. The suspicion that the Red Army might have removed both finds was denied by the Soviets for decades. In 2004, a reporter from German magazine Der Spiegel located it in a secret depot within Moscow's Pushkin Museum. Germany has requested return of the materials, and the issue has caused tension between the German and Russian governments."
+                },
+                "coordinates": {
+                    "latitude": "52.846111",
+                    "longitude": "13.723056"
+                }
+            },
+            {
                 "name": "Priam's Treasure",
                 "image": {
                     "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Priam%27s_treasure.jpg",
