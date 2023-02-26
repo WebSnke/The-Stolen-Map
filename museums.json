@@ -351,6 +351,26 @@
                 }
             },
             {
+                "name": "Gutenstein sword scabbard",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wolfskrieger_2.jpg/800px-Wolfskrieger_2.jpg",
+                    "license": "CC BY-SA 2.0",
+                    "attribution": {
+                        "name": "Schristian Bickel"
+                    },
+                    "description": "Replica of the Gutenstein sword scabbard"
+                },
+                "description": {
+                    "source": "https://de.wikipedia.org/wiki/Schwertscheide_von_Gutenstein",
+                    "general": "The Gutenstein sword scabbard is a magnificently decorated sword scabbard of a spatha from the 7th century, which was found in the grave of an Alamannic warrior. The special feature of this sword scabbard are the rare for the 7th century depictions of animal warriors or people with animal masks, which has few parallels in Europe.",
+                    "dispute": "In 1945, the trophy commission of the Red Army confiscated the Gutenstein sword scabbard. Since then, it has been stored in the Pushkin Museum in Moscow as a cultural object lost during the war or as looted art. The actual whereabouts of the sword scabbard were uncertain for many years, as no information was received from Moscow."
+                },
+                "coordinates": {
+                    "latitude": 48.078333,
+                    "longitude": 9.115556
+                }
+            },
+            {
                 "name": "Priam's Treasure",
                 "image": {
                     "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Priam%27s_treasure.jpg",
