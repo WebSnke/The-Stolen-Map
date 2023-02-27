@@ -23,7 +23,7 @@ var blackIcon = new L.Icon({
     shadowSize: [41, 41]
 });
 
-export function createMarkerAndPopup(item, museumName) {
+export function createMarkerAndPopup(item, museumName = 'Museum') {
     let iconColor;
     let borderColor;
     let licenseLink;
