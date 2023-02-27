@@ -60,7 +60,7 @@ export function createMarkerAndPopup(item) {
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
             </figure>
             <p>${item.description.general}</p>
-            <p>${item.description.dispute} — <a href="${item.description.source}">Source</a></p>`
+            <p>${item.description.dispute}<br> — <a href="${item.description.source}">Source</a></p>`
         )
         .openPopup()
         .addTo(map);
