@@ -23,7 +23,7 @@ var blackIcon = new L.Icon({
     shadowSize: [41, 41]
 });
 
-export function createMarkerAndPopup(item) {
+export function createMarkerAndPopup(item, museumName) {
     let iconColor;
     let borderColor;
     let licenseLink;
@@ -51,9 +51,12 @@ export function createMarkerAndPopup(item) {
         attributionLink = `${item.image.attribution.name}`;
     }
 
+    // TODO: Add link to current museum of artifact.
+
     L.marker([item.coordinates.latitude, item.coordinates.longitude], { icon: iconColor, alt: item.name, title: item.name })
         .bindPopup(
             `<h2>${item.name}</h2>
+            <div class="museum"><a href="">${museumName}</a></div>
             <figure>
                 <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
                 <figcaption>${item.image.description}</figcaption>

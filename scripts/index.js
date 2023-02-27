@@ -7,7 +7,7 @@ fetch('https://raw.githubusercontent.com/WebSnke/The-Stolen-Map/main/museums.jso
             createMarkerAndPopup(museum);
 
             for (let artifact of museum.artifacts) {
-                createMarkerAndPopup(artifact);
+                createMarkerAndPopup(artifact, museum.name);
             }
         }
     });
