@@ -20,6 +20,25 @@
         },
         "artifacts": [
             {
+                "name": "Aboriginal shield",
+                "image": {
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bark_shield_2008_british_museum.jpg/320px-Bark_shield_2008_british_museum.jpg",
+                    "license": "CC BY-SA 4.0",
+                    "attribution": {
+                        "name": "geni"
+                    }
+                },
+                "description": {
+                    "source": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/early-shield-australia",
+                    "general": "Previously thought to be the Gweagal shield, this Aboriginal shield is made out bark and wood (red mangrove), dating to the late 1700s or early 1800s. The shield has a hole near the centre consistent with being hit by a spear.",
+                    "dispute": "Following the Encounters exhibition, Rodney Kelly, a Gweagal man from Bermagui, started a campaign for the return of the shield to Australia, along with some Aboriginal spears held in Cambridge. His campaign for its return has since involved three visits to Britain, one in 2016 and two in 2017."
+                },
+                "coordinates": {
+                    "latitude": -33.867778,
+                    "longitude": 151.21
+                }
+            },
+            {
                 "name": "Benin Bronzes",
                 "image": {
                     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Benin_brass_plaque_03_%28cropped%29.jpg/800px-Benin_brass_plaque_03_%28cropped%29.jpg",
@@ -75,25 +94,6 @@
                 "coordinates": {
                     "latitude": 37.971667,
                     "longitude": 23.726111
-                }
-            },
-            {
-                "name": "Gweagal shield",
-                "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bark_shield_2008_british_museum.jpg/320px-Bark_shield_2008_british_museum.jpg",
-                    "license": "CC BY-SA 4.0",
-                    "attribution": {
-                        "name": "geni"
-                    }
-                },
-                "description": {
-                    "source": "https://en.wikipedia.org/wiki/Gweagal_shield",
-                    "general": "The Gweagal shield is an Aboriginal Australian shield dropped by a Gweagal warrior opposing James Cook's landing party at Botany Bay on 29 April 1770. The shield was recovered by Joseph Banks and taken back to England, but it is unclear whether the shield still exists. An Aboriginal shield held by the British Museum, and once thought to be the Gweagal shield, is more likely to originate from an area further north.",
-                    "dispute": "Following the Encounters exhibition, Rodney Kelly, a Gweagal man from Bermagui, started a campaign for the return of the shield to Australia, along with some Aboriginal spears held in Cambridge. His campaign for its return has since involved three visits to Britain, one in 2016 and two in 2017."
-                },
-                "coordinates": {
-                    "latitude": -33.999722,
-                    "longitude": 151.233056
                 }
             },
             {
