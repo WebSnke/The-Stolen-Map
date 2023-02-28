@@ -59,7 +59,6 @@ export function createMarkerAndPopup(item, museumName = 'Museum') {
             <div class="museum"><a href="">${museumName}</a></div>
             <figure>
                 <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
-                <figcaption>${item.image.description}</figcaption>
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
             </figure>
             <p>${item.description.general}</p>
