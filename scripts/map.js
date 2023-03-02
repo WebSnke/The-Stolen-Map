@@ -23,11 +23,12 @@ var blackIcon = new L.Icon({
     shadowSize: [41, 41]
 });
 
-export function createMarkerAndPopup(item, museumName = 'Museum') {
+export function createMarkerAndPopup(item, museum) {
     let iconColor;
     let borderColor;
     let licenseLink;
     let attributionLink;
+    museum = Object.assign({}, museum);
 
     if (item.hasOwnProperty('artifacts')) {
         iconColor = blackIcon;
@@ -54,7 +55,7 @@ export function createMarkerAndPopup(item, museumName = 'Museum') {
     L.marker([item.coordinates.latitude, item.coordinates.longitude], { icon: iconColor, alt: item.name, title: item.name })
         .bindPopup(
             `<h2>${item.name}</h2>
-            <div class="museum">${museumName}</div>
+            <div class="museum">${museum}</div>
             <figure>
                 <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
