@@ -51,12 +51,10 @@ export function createMarkerAndPopup(item, museumName = 'Museum') {
         attributionLink = `${item.image.attribution.name}`;
     }
 
-    // TODO: Add link to current museum of artifact.
-
     L.marker([item.coordinates.latitude, item.coordinates.longitude], { icon: iconColor, alt: item.name, title: item.name })
         .bindPopup(
             `<h2>${item.name}</h2>
-            <div class="museum"><a href="">${museumName}</a></div>
+            <div class="museum">${museumName}</div>
             <figure>
                 <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
