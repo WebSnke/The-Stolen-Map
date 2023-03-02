@@ -55,7 +55,7 @@ export function createMarkerAndPopup(item, museum) {
     L.marker([item.coordinates.latitude, item.coordinates.longitude], { icon: iconColor, alt: item.name, title: item.name })
         .bindPopup(
             `<h2>${item.name}</h2>
-            <div class="museum">${museum}</div>
+            <div class="museum">${museum.name}</div>
             <figure>
                 <img class="image" src="${item.image.link}" style="border: 2px solid ${borderColor}">
                 <figcaption>By ${attributionLink}, licensed under <a href="${licenseLink}">${item.image.license}</a></figcaption>
