@@ -33,6 +33,7 @@ export function createMarkerAndPopup(item, museum) {
     if (item.hasOwnProperty('artifacts')) {
         iconColor = blackIcon;
         borderColor = '#3D3D3D';
+        museum.name = 'Museum';
     } else {
         iconColor = redIcon;
         borderColor = '#CB2B3E';
