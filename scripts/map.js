@@ -54,6 +54,17 @@ export function createMarkerAndPopup(item, museum) {
     }
 
     L.marker([item.coordinates.latitude, item.coordinates.longitude], { icon: iconColor, alt: item.name, title: item.name })
+        .addEventListener('click', () => {
+            if (item.hasOwnProperty('artifacts')) {
+                item.artifacts.forEach(artifact => {
+                    createMarkerAndPopup(artifact, item);
+                    new L.Geodesic(
+                        [{ lat: item.coordinates.latitude, lng: item.coordinates.longitude },
+                        { lat: artifact.coordinates.latitude, lng: artifact.coordinates.longitude }],
+                        { color: '#CB2B3E', opacity: 0.5, steps: 30, weight: 4 }).addTo(map);
+                });
+            };
+        })
         .bindPopup(
             `<h2>${item.name}</h2>
             <div class="museum">${museum.name}</div>
@@ -64,6 +75,5 @@ export function createMarkerAndPopup(item, museum) {
             <p>${item.description.general}</p>
             <p>${item.description.dispute}<br> — <a href="${item.description.source}">Source</a></p>`
         )
-        .openPopup()
         .addTo(map);
 }

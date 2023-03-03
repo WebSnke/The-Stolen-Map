@@ -66,3 +66,17 @@ figure {
     border-radius: 12px;
     box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
 }
+
+.leaflet-interactive {
+    stroke-dasharray: 100%;
+    animation: line-animation 2s infinite alternate;
+}
+
+@keyframes line-animation {
+    from {
+      stroke-dashoffset: 0;
+    }
+    to {
+      stroke-dashoffset: 100%;
+    }
+}
