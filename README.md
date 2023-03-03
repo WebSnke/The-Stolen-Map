@@ -42,4 +42,4 @@ I, the creator of this project, would like to thank the following open source pr
 
 This project is licensed under the GPL-3.0.
 
-The full text of the license can be accessed via [this link](https://opensource.org/license/gpl-3-0/) and is also included in the license.md file of this software package.
+The full text of the license can be accessed via [this link](https://opensource.org/license/gpl-3-0/) and is also included in the LICENSE file of this software package.
