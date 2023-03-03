@@ -2,6 +2,9 @@ var map = L.map('map').setView([30, 0], 3);
 
 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
     noWrap: true,
+    minZoom: 3,
+    maxZoom: 10,
+    zoomControl: false,
     attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 }).addTo(map);
 
