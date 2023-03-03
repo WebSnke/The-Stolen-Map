@@ -69,7 +69,7 @@ figure {
 
 .leaflet-interactive {
     stroke-dasharray: 100%;
-    animation: line-animation 2s infinite alternate;
+    animation: line-animation 2s infinite alternate-reverse;
 }
 
 @keyframes line-animation {
