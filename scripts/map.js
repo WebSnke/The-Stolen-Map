@@ -64,7 +64,7 @@ export function createMarkerAndPopup(item, museum) {
                     new L.Geodesic(
                         [{ lat: item.coordinates.latitude, lng: item.coordinates.longitude },
                         { lat: artifact.coordinates.latitude, lng: artifact.coordinates.longitude }],
-                        { color: '#CB2B3E', opacity: 0.5, steps: 10, weight: 4 }).addTo(map);
+                        { color: '#CB2B3E', opacity: 0.5, steps: 4, weight: 4 }).addTo(map);
                 });
             };
         })
