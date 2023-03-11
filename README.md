@@ -31,8 +31,9 @@ Artifacts should include the geographic coordinates of their origin in decimal a
 ## Acknowledgements
 I, the creator of this project, would like to thank the following open source projects:
 - Leaflet, created by [Volodymyr Agafonkin](https://github.com/mourner)
-- Leaflet-providers, created by [Michael Lawrence Evans](https://github.com/mlevans), [b_b](https://github.com/brunob) and [Calvin Metcalf](https://github.com/calvinmetcalf)
+- leaflet-color-markers, created by [pointhi](https://github.com/pointhi)
 - Leaflet.Geodesic, created by [Henry Thasler](https://github.com/henrythasler)
+- Leaflet-providers, created by [Michael Lawrence Evans](https://github.com/mlevans), [b_b](https://github.com/brunob) and [Calvin Metcalf](https://github.com/calvinmetcalf)
 
 ## License
 
