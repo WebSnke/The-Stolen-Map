@@ -2,7 +2,7 @@
 
 <p align="center">A map highlighting disputed artifacts in museums around the world.</p>
 
-<p align="center"><a href="https://the-stolen-map.pages.dev/"><img solid" width="80%" src="https://user-images.githubusercontent.com/94064167/222802182-457213d7-c18c-4166-86a7-f95d064738ab.png"></a></p>
+<p align="center"><a href="https://the-stolen-map.pages.dev/"><img width="80%" src="https://user-images.githubusercontent.com/94064167/222802182-457213d7-c18c-4166-86a7-f95d064738ab.png"></a></p>
 
 ---
 
