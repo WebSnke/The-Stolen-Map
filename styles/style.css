@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
 #map {
@@ -17,13 +16,11 @@ body {
     left: 10px;
     z-index: 1;
     position: fixed;
-    text-align: center;
 }
 
 .gitHubLink img {
     width: 34px;
     border-radius: 34px;
-    background-clip: padding-box;
     border: 2px solid rgba(0, 0, 0, 0.2);
 }
 
@@ -51,7 +48,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:not(.leaflet-control-zoom-in):hover {
     text-decoration: underline;
 }
 
